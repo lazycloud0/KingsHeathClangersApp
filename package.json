@@ -28,7 +28,7 @@
     "@supabase/supabase-js": "^2.43.4",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
-    "next": "14.2.3",
+    "next": "14.2.32",
     "next-fonts": "^1.5.1",
     "react": "^18",
     "react-bootstrap": "^2.10.2",
